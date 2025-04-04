@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @HaadiyaAli
-- 👀 I’m interested in, too many things
+- 👀 I’m interested in too many things
 - 🌱 I’m currently learning C
 - 💞️ I’m looking to collaborate on hackathons
-- 📫 How to reach me at email, haadiyaali97@gmail.com 
+- 📫 Reach me by email at haadiyaali97@gmail.com 
 - 😄 Pronouns: she/her
 - ⚡ Fun fact: everything about me is fun 🥴🤪
 
