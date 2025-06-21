@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @HaadiyaAli
 - 👀 I’m interested in too many things
-- 🌱 I’m currently learning C
+- 🌱 I’m currently learning Python
 - 💞️ I’m looking to collaborate on hackathons
 - 📫 Reach me by email at haadiyaali97@gmail.com 
 - 😄 Pronouns: she/her
