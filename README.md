@@ -1,12 +1,16 @@
-- 👋 Hi, I’m @HaadiyaAli
-- 👀 I’m interested in too many things
-- 🌱 I’m currently learning about ML algorithms 
-- 💞️ I’m looking to collaborate on hackathons
-- 📫 Reach me by email at haadiyaali97@gmail.com 
-- 😄 Pronouns: she/her
-- ⚡ Fun fact: everything about me is fun 🥴🤪
+<div align="center">
+  <table background="Images/rip_paper.png" width="100%" border="0">
+    <tr>
+      <td align="left" style="padding: 40px; vertical-align: middle;">
+        <font color="#333">
+          <sup>HI THERE I'M</sup><br>
+          <font size="10" face="serif"><b>HAADIYA ALI</b></font>
+        </font>
+      </td>
+      <td align="right" style="padding: 40px; vertical-align: middle;">
+        <img src="gifs/Cat_yapping.gif" width="120" alt="Yapping Cat GIF">
+      </td>
+    </tr>
+  </table>
+</div>
 
-<!---
-HaadiyaAli/HaadiyaAli is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
